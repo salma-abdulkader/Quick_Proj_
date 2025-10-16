@@ -1,4 +1,4 @@
-# 🩻 SPR X-Ray Age Prediction
+# SPR X-Ray Age Prediction
 
 This project aims to **predict human age from X-ray images** using deep learning models.  
 Two different architectures were implemented and compared:  
